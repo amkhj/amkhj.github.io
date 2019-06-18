@@ -11,8 +11,8 @@ tags: [kt amk, raspberry pi, auto booting]
 
 ## 1) 부팅 시 동작할 서비스에 대한 스크립트 작성
 먼저 AMK 부팅시, 작성한 프로그램 데몬이 OS에 상주하기 위해 필요한 서비스 파일을 만들어야 합니다.
-아래 명령을 통해 서비스 스크립트 파일을 작성합니다.
-sudo nano /lib/systemd/system/myscript.service
+아래 명령을 통해 서비스 스크립트 파일을 작성합니다.  
+#sudo nano /lib/systemd/system/myscript.service
 
 >myscript.service 파일 내용
 >#! /bin/sh
