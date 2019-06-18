@@ -11,8 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: AMK-Dev # add your name
 author-img: amk.png # add your photo
-about-author: "KT AI MAKERS KIT 관련 기술 블로그입니다.  
-#다양한 예제 코드 및 개발 팁을 공유합니다."  # add description
+about-author: "KT AI MAKERS KIT 관련 기술 블로그입니다.  다양한 예제 코드 및 개발 팁을 공유합니다."  # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github:  # add your Github handle
