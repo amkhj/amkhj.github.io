@@ -15,7 +15,7 @@ tags: [kt amk, raspberry pi, auto booting]
   
 sudo nano /lib/systemd/system/myscript.service  
   
->myscript.service 파일 내용 
+* myscript.service 파일 내용 
 >  
 >#! /bin/sh  
 >[Unit]  
