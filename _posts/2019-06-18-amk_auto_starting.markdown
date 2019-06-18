@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 전원 연결시 AMK 단말 버튼으로 바로 실행하기 편
+title: 전원 연결시 AMK 단말 버튼으로 바로 실행하기
 date: 2019-06-18 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: amk_button.jpg # Add image post (optional)
